@@ -12,4 +12,4 @@
     - Scores by Spending
     - Scores by Size
     - Scores by School Type
-### The Jupyter Notebook also contains a written report at the bottom of the file containing a few conclusions that I gathered from the data.
+### The Jupyter Notebook also contains a written report at the **bottom** of the file containing a few conclusions that I gathered from the data.
